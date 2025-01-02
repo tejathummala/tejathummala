@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswini Thummala</h1>
-<h3 align="center">DevOps/Cloud aspirant</h3>
+<h3 align="center">AI/ML enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 📫 How to reach me **tejathummala11@gmail.com**
